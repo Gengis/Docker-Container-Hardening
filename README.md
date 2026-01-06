@@ -34,7 +34,7 @@ Instead of using the default bridge network, custom networks were defined to iso
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/Docker-Container-Hardening.git](https://github.com/your-username/Docker-Container-Hardening.git)
+   git clone [https://github.com/gengisirm/Docker-Container-Hardening.git](https://github.com/your-username/Docker-Container-Hardening.git)
    cd Docker-Container-Hardening
    ```
 
